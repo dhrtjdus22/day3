@@ -1,6 +1,6 @@
 # 주피터노트북
 
-jupyter-notebook --no-browser --port=8080 python_work (로컬)
+jupyter-notebook --no-browser --port=8080 python_work (로컬)   
 jupyter-notebook --no-browser --port=8080 --ip=* python_work (공용)
 
 -----------------------------------------------------------------
